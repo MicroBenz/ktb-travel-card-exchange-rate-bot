@@ -1,0 +1,8 @@
+{
+  "name": "ktb-travel-card-exchange-rate-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MicroBenz/ktb-travel-card-exchange-rate-bot.git",
+  "author": "Tananan Tangthanachaikul <microbenz.prob@gmail.com>",
+  "license": "MIT"
+}
