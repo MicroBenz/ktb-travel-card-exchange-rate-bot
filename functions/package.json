@@ -10,7 +10,7 @@
     "deploy": "firebase deploy --only functions",
     "logs": "firebase functions:log",
     "test": "jest --watch --verbose false",
-    "deploy-test": "jest"
+    "deploy-test": "jest src"
   },
   "main": "lib/index.js",
   "dependencies": {
@@ -36,6 +36,6 @@
   },
   "private": true,
   "engines": {
-    "node": "10"
+    "node": "8"
   }
 }
